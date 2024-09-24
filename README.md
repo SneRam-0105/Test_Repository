@@ -11,5 +11,6 @@
 5. Make changes in remote repository
 6. `Understanding the Merge conflict`
 7. Solve the merge conflict
+8. I solved it using two commands:git config pull.rebase false followed by git pull origin main
 
 ### This step is to make changes in local repo and pushing to create merge conflict
