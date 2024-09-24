@@ -11,3 +11,5 @@
 5. Make changes in remote repository
 6. `Understanding the Merge conflict`
 7. Solve the merge conflict
+
+### This step is to make changes in local repo and pushing to create merge conflict
